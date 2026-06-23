@@ -1,3 +1,5 @@
+<link href="./style.css" rel="stylesheet"></link>
+
 # Stats
 
 Stats in TMD are not constained by the mental/physical divide; you will find that stats
@@ -7,10 +9,10 @@ Your stat spread should be dictated by character - not by "build".
 
 There are 4 stats:
 
-- **Timbre**
-- **Tune**
-- **Tempo**
-- **Timpani**
+- <tnd-ti>**Timbre**</tnd-ti>
+- <tnd-tu>**Tune**</tnd-tu>
+- <tnd-te>**Tempo**</tnd-te>
+- <tnd-tp>**Timpani**</tnd-tp>
 
 
 ## Timbre
