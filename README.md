@@ -1,5 +1,3 @@
-<link href="./style.css" rel="stylesheet"></link>
-
 # The Note Desolation
 
 TND is a simple TTRPG system intended to be easy to pick up for players new to the genre,

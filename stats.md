@@ -1,5 +1,3 @@
-<link href="./style.css" rel="stylesheet"></link>
-
 # Stats
 
 Stats in TMD are not constained by the mental/physical divide; you will find that stats
