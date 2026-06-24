@@ -12,6 +12,8 @@ There are 4 stats:
 - **Tempo**
 - **Timpani**
 
+Each character's stat has a value from **1-8**.
+
 
 ## Timbre
 *How does your wit distinguish?*

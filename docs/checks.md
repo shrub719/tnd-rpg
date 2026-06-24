@@ -1,4 +1,4 @@
-# Dice
+# Checks
 
 TND uses only 6 sided dice. You don't need any of your expensive resin dice sets, so put them away.
 
@@ -6,7 +6,7 @@ TND uses only 6 sided dice. You don't need any of your expensive resin dice sets
 **Rolling 2d6** means rolling 2 dice and adding up the results, and so on.
 
 
-## Checks
+## Rolling checks
 
 A check is a test against one of your stats to overcome a barrier or achieve
 a feat in the game. It is the main way of deciding how non-trivial actions
@@ -29,6 +29,7 @@ or negatively impact the situation.
 
 Possible sources of modifiers include:
 
+- Motif values.
 - Experience with a certain skill/task.
 - Aid from another person.
 - Environmental conditions.
