@@ -37,8 +37,8 @@ Possible sources of modifiers include:
 An example Difficult Tune check, for attempting to convince someone of a false alibi.
 
 - **+3** from your Tune stat.
+- **+1** from your Subterfuge motif.
 - **-2** - they know you. They know how you lie.
-- **+1** - this isn't your first rodeo as a spy.
 
 Rolling 2d6, the outcome is 10, so the result of the check is
 **10 + 3 - 2 + 1 = 12** which passes the **Difficult (12)** check.
@@ -50,6 +50,16 @@ Another example Easy Timpani check, for hitting a strongman game at an arcade.
 
 Rolling 2d6, the outcome is 4, so the result is **4 + 1 - 1 = 4** which
 fails the **Easy (8)** check.
+
+
+## Passive checks
+
+If you are not acting, but still need to make a check passively or defensively,
+then you may be asked for a passive check. This takes the same stats and modifiers
+as a regular check, but calculated as if you **rolled a 6**.
+
+This is useful if your character needs to notice a hidden trap, or purge your
+body of poison.
 
 
 ## Values
