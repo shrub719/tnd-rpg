@@ -1,6 +1,6 @@
 # Stats
 
-Stats in TMD are not constained by the mental/physical divide; you will find that stats
+Stats in TMD are not constrained by the mental/physical divide; you will find that stats
 associated with speed and dexterity have important psychological effects. Similarly,
 all stats have purpose when in combat.
 Your stat spread should be dictated by character - not by "build".

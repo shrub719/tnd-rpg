@@ -5,3 +5,7 @@
 1. [Checks](./checks.md)
 1. [Combat](./combat.md)
 1. [Characters](./characters.md)
+1. [DM's guide](./dms-guide.md)
+
+## [Summary](./summary.md)
+
