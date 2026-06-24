@@ -15,9 +15,14 @@ play about.
 To pass a check, you will have to roll 2d6 and add your stat and relevant modifiers.
 Modifiers consist of skills, bonuses and hindrances provided by the DM. You add
 or subtract these from the outcome of your roll to see the result of your check.
+If it is less than the check value (known by the DM), you fail. Otherwise, you pass.
 
 If the outcome of your roll is 12 (you have rolled two 6s), the result of the
-check is automatically a success. This is called a **critical**.
+check is automatically a pass. This is called a **critical**.
+
+Passing a check usually means you perform the action well or correctly. Failing a 
+check usually means you fail at carrying out the action, which may cause harm
+or negatively impact the situation.
 
 
 ## Modifiers
