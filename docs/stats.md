@@ -1,6 +1,6 @@
 # Stats
 
-Stats in TMD are not constrained by the mental/physical divide; you will find that stats
+Stats in TND are not constrained by the mental/physical divide; you will find that stats
 associated with speed and dexterity have important psychological effects. Similarly,
 all stats have purpose when in combat.
 Your stat spread should be dictated by character - not by "build".
@@ -16,7 +16,7 @@ Each character's stat has a value from **1-8**.
 
 
 ## Timbre
-*How does your wit distinguish?*
+*How does your wit distinguish itself?*
 
 Timbre is TND's **Intelligence/Wisdom** analogue.
 
@@ -54,6 +54,7 @@ stay ever cautious of what lies in wait.
 Timpani is TND's **Strength/Charisma** analogue. 
 
 It follows a person with weight,
-charisma and hot blood ready to strike. It allows you to take up a room and exert yourself
+charisma and hot blood ready to strike. It allows you to fill a room
+with your presence and exert yourself
 through words and with force. It makes you stand out; loudly.
 
