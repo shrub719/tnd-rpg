@@ -8,6 +8,5 @@ TND foregoes hard rules in favour of DM judgement where possible, but ensures pl
 are still limited in significant ways by the laws of the system to make playing the game
 more exciting.
 
-## Contents
+## [Contents](./docs/contents.md)
 
-1. [Stats](./stats.md)
