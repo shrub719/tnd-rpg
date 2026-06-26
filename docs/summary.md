@@ -1,7 +1,7 @@
 # Summary
 
 
-## Stats
+## [Stats](./stats.md)
 
 Stat    | Meaning
 ------- | ------------
@@ -13,16 +13,16 @@ Timpani | Power
 Bonus to checks from 1-8.
 
 
-## Motifs
+## [Motifs](./motifs.md)
 
 Several specific skills that your character is proficient in.
 
 Bonus to checks from 1-5.
 
-Items add to your stats or motifs while wearing them.
+[Items](./items.md) add to your stats or motifs while wearing them.
 
 
-## Checks
+## [Checks](./checks.md)
 
 2d6 rolls made against a check threshold. Get that value or
 higher to pass. Passive checks are calculated as if you
@@ -32,7 +32,7 @@ Add the relevant stat, motif (if any) and any modifiers your DM
 tells you to add.
 
 
-## Combat
+## [Combat](./combat.md)
 
 When entering combat, you choose your key (stat used for
 checks and leitmotifs).
@@ -49,7 +49,7 @@ Turns are popcorned between players, starting with the intiator.
 Each character goes once per round, and then the opposing side acts.
 
 
-## Characters
+## [Characters](./characters.md)
 
 Make character sheets on the [TND website](https://shrub719.github.io/tnd).
 
