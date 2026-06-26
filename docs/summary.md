@@ -1,7 +1,5 @@
 # Summary
 
-A cheat sheet for those familiar with TTRPGs or who need a reminder of TND's system.
-
 
 ## Stats
 
