@@ -11,10 +11,9 @@
 
 A read-through of the whole rules is useful if you're DMing or want to know
 what you're getting into. For a quick start with the RPG as a player, though,
-it's probably enough to read
+it's probably enough to read the summary.
 
 ## [Summary](./summary.md)
 
-to see where TND stands relative to other RPGs. 
 Your DM can fill in the rest. ;4
 
