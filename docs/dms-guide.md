@@ -59,7 +59,7 @@ decision of key more interesting.
 
 Get creative with leitmotif requirements. Some useful examples:
 
-- A sneak leitmotif which requires cover, and a sneak attack leitmofif which requires
+- A sneak leitmotif which requires cover, and a sneak attack leitmotif which requires
 unbroken sneak.
 - A duo attack leitmotif which requires being popcorned from a specific teammate.
 
@@ -73,5 +73,5 @@ Examples include:
 
 
 ---
-**[Next: Summary](./summary.md)**
+**[Next: Canned Leitmotifs](./canned-leitmotifs.md)**
 

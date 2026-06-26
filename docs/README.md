@@ -7,6 +7,7 @@
 1. [Combat](./combat.md)
 1. [Characters](./characters.md)
 1. [DM's Guide](./dms-guide.md)
+1. [Canned Leitmotifs](./canned-leitmotifs.md)
 1. [Summary](./summary.md)
 
 A read-through of the whole rules is useful if you're DMing or want to know
