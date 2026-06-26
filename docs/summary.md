@@ -21,10 +21,12 @@ Several specific skills that your character is proficient in.
 
 Bonus to checks from 1-5.
 
+Items add to your stats or motifs while wearing them.
+
 
 ## Checks
 
-2d6 rolls made against a check value. Get that value or
+2d6 rolls made against a check threshold. Get that value or
 higher to pass. Passive checks are calculated as if you
 rolled a 6.
 
@@ -34,13 +36,16 @@ tells you to add.
 
 ## Combat
 
+When entering combat, you choose your key (stat used for
+checks and leitmotifs).
+
 Each turn consists of a single action.
 
-Action   | Description
--------- | -----------
-Attack   | Target a person.
-Defend   | Prepare for another's action.
-Interact | Target the environment.
+Action    | Description
+--------- | -----------
+Attack    | Directly target an enemy with a check.
+Interact  | Manipulate the environment or use an item.
+Leitmotif | Use a leitmotif under the right conditions.
 
 Turns are popcorned between players, starting with the intiator.
 Each character goes once per round, and then the opposing side acts.
@@ -48,7 +53,5 @@ Each character goes once per round, and then the opposing side acts.
 
 ## Characters
 
-<!--BLAH-->
-
-You can "level up" by increasing motifs, or more rarely by increasing stats.
+Make character sheets on the [TND website](https://shrub719.github.io/tnd).
 

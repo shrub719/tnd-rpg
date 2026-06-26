@@ -15,7 +15,7 @@ play about.
 To pass a check, you will have to roll 2d6 and add your stat and relevant modifiers.
 Modifiers consist of skills, bonuses and hindrances provided by the DM. You add
 or subtract these from the outcome of your roll to see the result of your check.
-If it is less than the check value (known by the DM), you fail. Otherwise, you pass.
+If it is less than the check threshold (known by the DM), you fail. Otherwise, you pass.
 
 If the outcome of your roll is 12 (you have rolled two 6s), the result of the
 check is automatically a pass. This is called a **critical**.
@@ -58,23 +58,26 @@ If you are not acting, but still need to make a check passively or defensively,
 then you may be asked for a passive check. This takes the same stats and modifiers
 as a regular check, but calculated as if you **rolled a 6**.
 
+As these are based solely on your stats, it is useful to have them noted down for
+quick reference.
+
 This is useful if your character needs to notice a hidden trap, or purge your
 body of poison.
 
 
-## Values
+## Thresholds
 
-DMs (me) might find this table of check values and their associated difficulty useful:
+DMs (me) might find this table of check thresholds and their associated difficulty useful:
 
-Difficulty | Value | Default chance
----------- | ----- | --------------
-Easy       | 8     | 58%
-Reasonable | 10    | 28%
-Difficult  | 12    | 8%
-Impressive | 14    | 3% (critical)
-Forte      | 16    | 3% (critical)
+Difficulty | Threshold | Default chance
+---------- | --------- | --------------
+Easy       | 8         | 58%
+Reasonable | 10        | 28%
+Difficult  | 12        | 8%
+Impressive | 14        | 3% (critical)
+Forte      | 16        | 3% (critical)
 
-The **Default chance** of a check value is the probablity that a character with 1 in
+The **Default chance** of a check threshold is the probablity that a character with 1 in
 the relevant stat and no modifiers will succeed the check.
 
 
