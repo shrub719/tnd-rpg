@@ -81,5 +81,6 @@ The **Default chance** of a check threshold is the probablity that a character w
 the relevant stat and no modifiers will succeed the check.
 
 
-[Next: Items](./items.md)
+---
+**[Next: Items](./items.md)**
 

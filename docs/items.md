@@ -9,5 +9,6 @@ are wearing the item, affecting all checks.
 Items can also have other effects decided by your DM.
 
 
-[Next: Combat](./combat.md)
+---
+**[Next: Combat](./combat.md)**
 

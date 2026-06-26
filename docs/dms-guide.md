@@ -72,5 +72,6 @@ Examples include:
 - Flash step.
 
 
-[Next: Summary](./summary.md)
+---
+**[Next: Summary](./summary.md)**
 

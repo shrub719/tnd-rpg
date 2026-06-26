@@ -59,5 +59,6 @@ with your presence and exert yourself
 through words and with force. It makes you stand out; loudly.
 
 
-[Next: Motifs](./motifs.md)
+---
+**[Next: Motifs](./motifs.md)**
 
