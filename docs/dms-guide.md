@@ -1,4 +1,4 @@
-# DM's guide
+# DM's Guide
 
 As a relatively DM-reliant TTRPG, it is important that you as the DM Know What
 You Are Doing. Certain rules are made with the assumption that you know how to

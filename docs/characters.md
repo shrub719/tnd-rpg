@@ -37,5 +37,5 @@ a character can develop a new leitmotif
 
 
 ---
-**[Next: DM's guide](./dms-guide.md)**
+**[Next: DM's Guide](./dms-guide.md)**
 
