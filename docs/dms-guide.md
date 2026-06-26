@@ -71,3 +71,6 @@ Examples include:
 - Echoing the last leitmotif that was used.
 - Flash step.
 
+
+[Next: Summary](./summary.md)
+

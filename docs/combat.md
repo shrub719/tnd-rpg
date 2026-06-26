@@ -54,3 +54,6 @@ effects.
 They can be anything from special attacks to bonuses and modifier-activating abilities.
 You can make them together with your DM.
 
+
+[Next: Characters](./characters.md)
+

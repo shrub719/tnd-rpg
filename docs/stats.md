@@ -58,3 +58,6 @@ charisma and hot blood ready to strike. It allows you to fill a room
 with your presence and exert yourself
 through words and with force. It makes you stand out; loudly.
 
+
+[Next: Motifs](./motifs.md)
+

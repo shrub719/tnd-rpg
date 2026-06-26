@@ -34,3 +34,5 @@ to a character's theme while also practical and frequently utilisible is the key
 it relevant in TND gameplay.
 
 
+[Next: Checks](./checks.md)
+

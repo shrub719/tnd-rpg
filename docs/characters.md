@@ -35,3 +35,6 @@ to do.
 - **Leitmotif creation.** In the spontaneity of battle, or the rigour of training,
 a character can develop a new leitmotif
 
+
+[Next: DM's guide](./dms-guide.md)
+
