@@ -11,3 +11,5 @@ more exciting.
 
 ## [How to play](./docs/README.md)
 
+## [Character creator](https://shrub719.github.io/tnd)
+
