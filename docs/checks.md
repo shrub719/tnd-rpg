@@ -77,7 +77,7 @@ Difficult  | 12        | 8%
 Impressive | 14        | 3% (critical)
 Forte      | 16        | 3% (critical)
 
-The **Default chance** of a check threshold is the probablity that a character with 1 in
+The **Default chance** of a check threshold is the probability that a character with 1 in
 the relevant stat and no modifiers will succeed the check.
 
 

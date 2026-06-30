@@ -13,8 +13,7 @@ TND is only concerned in a limited mechanical sense.
 be general, thematic and complement their personality. Motifs start with a value of 1.
 1. Fill in details like items (decided with your DM) and passive checks.
 
-A character sheet creation tool is available on the 
-[TND website](https://shrub719.github.io/tnd).
+A character sheet template is available [here](../../assets/character-sheet.pdf).
 
 
 ## Improvement
@@ -32,8 +31,9 @@ or in the gaining of a new motif to be discussed with the DM.
 and tend to signify a substantial shift in a character's ability or personality.
 Hand out with care, as this has a significant impact on what the character is able 
 to do.
-- **Leitmotif creation.** In the spontaneity of battle, or the rigour of training,
-a character can develop a new leitmotif
+- **Leitmotif improvements.** In the spontaneity of battle, or the rigour of training,
+a character can develop a new leitmotif. Existing leitmotifs may also be modified
+into stronger versions.
 
 
 ---

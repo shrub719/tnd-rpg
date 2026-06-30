@@ -9,7 +9,7 @@ TND foregoes hard rules in favour of DM judgement where possible, but ensures pl
 are still limited in significant ways by the laws of the system to make playing the game
 more exciting.
 
-## [How to play](./docs/README.md)
+## [How to play](./docs/README.md) ([Summary](./docs/summary))
 
-## [Character creator](https://shrub719.github.io/tnd)
+## [Character sheet](./assets/character-sheet.pdf)
 

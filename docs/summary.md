@@ -51,5 +51,13 @@ Each character goes once per round, and then the opposing side acts.
 
 ## [Characters](./characters.md)
 
-Make character sheets on the [TND website](https://shrub719.github.io/tnd).
+Your character sheet should have:
+
+- Stats
+- Motifs
+- Leitmotifs
+- Passive checks
+- Items
+- Character details (appearance, backstory)
+
 
