@@ -45,7 +45,7 @@ Attack    | Directly target an enemy with a check.
 Interact  | Manipulate the environment or use an item.
 Leitmotif | Use a leitmotif under the right conditions.
 
-Turns are popcorned between players, starting with the intiator.
+Turns are popcorned between players, starting with the initiator.
 Each character goes once per round, and then the opposing side acts.
 
 
