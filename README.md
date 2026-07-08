@@ -5,10 +5,6 @@ while still enabling creativity in roleplay and combat.
 It was made specifically for my own campaign and setting, and heavily (and transparently)
 inspired by Disco Elysium's own system.
 
-TND foregoes hard rules in favour of DM judgement where possible, but ensures player characters
-are still limited in significant ways by the laws of the system to make playing the game
-more exciting.
-
 ## [How to play](./docs/README.md) ([Summary](./docs/summary.md))
 
 ## [Character sheet](./assets/character-sheet.pdf)
