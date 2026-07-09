@@ -35,7 +35,7 @@ tells you to add.
 ## [Combat](./combat.md)
 
 When entering combat, you choose your key (stat used for
-checks and leitmotifs).
+checks, defense and leitmotifs).
 
 Each turn consists of a single action.
 
