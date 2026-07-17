@@ -1,9 +1,12 @@
 # Motifs
 
 Motifs are TND's fluid solution to skills. Characters have traits that make
-them excel in certain areas, whether through practise, innate talent or
-meticulous academic study. Their motifs reflect their personality, and make
-checks easier. Each motif is associated with a certain stat.
+them excel in certain areas, whether through practise, innate talent,
+meticulous academic study, or personality.
+
+Motifs are designed to reward in-character actions with bonuses to checks,
+which is why they should reflect the personality of a character.
+Each motif is associated with a certain stat.
 
 
 ## Bonuses

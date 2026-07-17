@@ -48,11 +48,11 @@ entirely.
 ## Leitmotifs
 
 A leitmotif is an application of a motif that can be seen as a single "move" or ability.
-You gain them throughout your journey - they come with certain conditions and special
-effects.
+You gain them throughout your journey - they come with certain conditions which restrict
+their use (like cooldowns and requirements), and can have special effects that break the normal rules of the game.
 
 They can be anything from special attacks to bonuses and modifier-activating abilities.
-You can make them together with your DM.
+You should decide on them together with your DM.
 
 
 ---

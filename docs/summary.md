@@ -56,7 +56,6 @@ Your character sheet should have:
 - Stats
 - Motifs
 - Leitmotifs
-- Passive checks
 - Items
 - Character details (appearance, backstory)
 
