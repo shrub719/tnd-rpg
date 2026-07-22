@@ -3,21 +3,14 @@
 
 ## [Stats](./stats.md)
 
-Stat    | Meaning
-------- | ------------
-Timbre  | Intelligence
-Tune    | Emotion
-Tempo   | Quickness
-Timpani | Power
+**PIQuE:**
+
+- **Power**
+- **Intellect**
+- **Quickness**
+- **Emotion**
 
 Bonus to checks from 1-8.
-
-
-## [Motifs](./motifs.md)
-
-Several specific skills that your character is proficient in.
-
-Bonus to checks from 1-5.
 
 [Items](./items.md) add to your stats or motifs while wearing them.
 
